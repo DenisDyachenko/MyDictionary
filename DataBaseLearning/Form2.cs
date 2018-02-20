@@ -27,13 +27,6 @@ namespace DataBaseLearning
             InitializeComponent();
         }
 
-        string GetWordsCount()
-        {
-            SQLiteCommand CMD = DB.CreateCommand();
-            CMD.CommandText = "select count(*) from Translator";
-            return "Переводов: " + CMD.ExecuteScalar().ToString();
-        }
-
         public void Apply_Click(object sender, EventArgs e)
         {
             DB = new SQLiteConnection("Data Source = MyDataBase.db; Version = 3");

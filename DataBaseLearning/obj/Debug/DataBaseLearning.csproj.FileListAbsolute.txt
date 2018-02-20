@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\bin\Debug\DataBaseLearning.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\bin\Debug\DataBaseLearning.exe
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\bin\Debug\DataBaseLearning.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\bin\Debug\System.Data.SQLite.dll
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\bin\Debug\System.Data.SQLite.xml
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\obj\Debug\DataBaseLearning.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\obj\Debug\DataBaseLearning.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\obj\Debug\DataBaseLearning.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\obj\Debug\DataBaseLearning.exe
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\obj\Debug\DataBaseLearning.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\obj\Debug\DataBaseLearning.Form2.resources
+C:\Users\User\documents\visual studio 2015\Projects\DataBaseLearning\DataBaseLearning\obj\Debug\DataBaseLearning.csprojResolveAssemblyReference.cache
